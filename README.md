@@ -20,7 +20,7 @@ MVVM (Model ViewModel)
 ## Networking Library Used
 Retrofit
 
-## Future scopes
+## Future Scopes
 - Offline/low network data handling
 - Network connection availability handling
 - Better UI design
