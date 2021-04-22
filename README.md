@@ -17,3 +17,11 @@ Kotlin
 ## Architecture Used
 MVVM (Model ViewModel)
 
+## Networking Library Used
+Retrofit
+
+## Future scopes
+- Offline/low network data handling
+- Network connection availability handling
+- Better UI design
+- Details view on click of an image
