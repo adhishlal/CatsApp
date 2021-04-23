@@ -17,6 +17,9 @@ Kotlin
 ## Architecture Used
 MVVM (Model ViewModel)
 
+## Image Loading Library
+Glide
+
 ## Networking Library Used
 Retrofit
 
@@ -25,3 +28,7 @@ Retrofit
 - Network connection availability handling
 - Better UI design
 - Details view on click of an image
+
+## Screenshot
+
+(https://github.com/adhishlal/CatsApp/blob/master/Screenshot_1619158026.png)
