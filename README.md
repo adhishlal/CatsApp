@@ -9,19 +9,24 @@ git clone git@github.com:adhishlal/catsapp.git
 ```
 
 ## Build variants
-Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
+- Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
 
 ## Language Used
-Kotlin
+- Kotlin
+- RxJava
+- RxAndroid
 
 ## Architecture Used
-MVVM (Model ViewModel)
+- MVVM (Model ViewModel)
 
 ## Image Loading Library
-Glide
+- Glide
 
 ## Networking Library Used
-Retrofit
+- Retrofit
+
+## Other Libraries Used
+- LiveData
 
 ## Future Scopes
 - Offline/low network data handling
@@ -30,4 +35,4 @@ Retrofit
 - Details view on click of an image
 
 ## Screenshot
-<img src="https://github.com/adhishlal/CatsApp/blob/master/Screenshot_1619158026.png" width="40%">
+<img src="https://github.com/adhishlal/CatsApp/blob/master/Screenshot_1619158026.png" width="30%">
