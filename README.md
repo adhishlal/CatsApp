@@ -31,4 +31,4 @@ Retrofit
 
 ## Screenshot
 
-![catsapp_screenshot](https://github.com/adhishlal/CatsApp/blob/master/Screenshot_1619158026.png)
+![catsapp_screenshot](https://github.com/adhishlal/CatsApp/blob/master/Screenshot_1619158026.png | height=50)
