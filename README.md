@@ -18,7 +18,7 @@ git clone git@github.com:adhishlal/catsapp.git
 
 ## Architecture Used
 - MVVM (Model ViewModel)
-<img src="https://github.com/adhishlal/CatsApp/blob/master/MVVM.png">
+<img src="https://github.com/adhishlal/CatsApp/blob/master/MVVM.png" width="50%">
 
 ## Image Loading Library
 - Glide
